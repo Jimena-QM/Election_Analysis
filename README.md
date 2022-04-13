@@ -32,6 +32,7 @@ The final results are:
 ## Election Audit Summary
 This script can be used to audit any election results. It's important that the file to be audited with the election results has at least the same three column structure: Ballot ID, County and Candidate and is in csv.
 ![Alt text](https://github.com/Jimena-QM/Election_Analysis/blob/main/Resources/election_results_structure.PNG) "Structure")
+
 The changes that have to be done within the code are: 
 ![Alt text](https://github.com/Jimena-QM/Election_Analysis/blob/main/Resources/Lines%20of%20Code%20to%20Change.PNG "Lines to Change")
 -file_to_load with the Relative Path of the file (.csv) that contains the information to be audited
