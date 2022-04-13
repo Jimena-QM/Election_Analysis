@@ -36,6 +36,8 @@ This script can be used to audit any election results. It's important that the f
 
 The changes that have to be done within the code are: 
 ![Alt text](https://github.com/Jimena-QM/Election_Analysis/blob/main/Resources/Lines%20of%20Code%20to%20Change.PNG "Lines to Change")
+
 -file_to_load with the Relative Path of the file (.csv) that contains the information to be audited
 -A txt blank file should be created prior to modifying file_to_save with the Relative Path of the file where the results will be saved.
+
 If more information regarding voters is present, such as sex, zip codes, age the script can be updated to reflect a deeper analysis. 
